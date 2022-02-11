@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_sponsors_sponsors",
+  "info": {
+    "displayName": "Sponsors",
+    "icon": "allergies"
+  },
+  "options": {},
+  "attributes": {
+    "block1": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

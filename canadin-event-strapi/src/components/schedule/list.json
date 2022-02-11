@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_schedule_lists",
+  "info": {
+    "displayName": "List",
+    "icon": "align-left"
+  },
+  "options": {},
+  "attributes": {
+    "topTitle": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}

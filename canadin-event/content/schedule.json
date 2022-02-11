@@ -1,0 +1,98 @@
+{
+  "title": "Programme",
+  "list": [
+    {
+      "topTitle": "Atelier 1",
+      "date": "04/02/2022",
+      "title": "Bénéficier d’un accompagnement personnalisée"
+    },
+    {
+      "topTitle": "Atelier 2&3",
+      "date": "11,12/02/2022",
+      "title": "Démarche pour obtenir un Permis de travail au Québec/ Coaching Emploi"
+    },
+    {
+      "topTitle": "Atelier 4&5",
+      "date": "18,19/02/2022",
+      "title": "Retour d'expérience / Stratégies de recherche d'emploi"
+    },
+    {
+      "topTitle": "Atelier 6",
+      "date": "25/02/2022",
+      "title": "Le LOGEMENT, CE QUE VOUS DEVEZ SAVOIR"
+    }
+  ],
+  "speakers1": [
+    {
+      "time": "19:00 PM-  21:00 PM",
+      "name": "Aymen Jhidri",
+      "image": "speakers/aymen.jpg",
+      "disabledImage": "speakers/aymen-d.jpg",
+      "linkedin": "https://www.linkedin.com/in/aymen-jhidri/ ",
+      "visibleIndex": 0
+    },
+    {
+      "time": "19:00 PM-  21:00 PM",
+      "name": "Souad Belghith",
+      "image": "speakers/souad.jpg",
+      "disabledImage": "speakers/souad-d.jpg",
+      "linkedin": "https://www.linkedin.com/in/souad-belghith-8a2a6050/",
+      "visibleIndex": 0
+    }
+  ],
+  "speakers2": [
+    {
+      "time": "19:00 PM-  21:00 PM",
+      "name": "Mohamed Talhaoui",
+      "image": "speakers/mohamed.jpg",
+      "disabledImage": "speakers/mohamed-d.jpg",
+      "linkedin": "https://www.linkedin.com/in/talhaouitransfertdentreprise/",
+      "visibleIndex": 1
+    },
+    {
+      "time": "19:00 PM-  21:00 PM",
+      "name": "Emilie sauvé",
+      "image": "speakers/emelie.jpg",
+      "disabledImage": "speakers/emelie-d.jpg",
+      "linkedin": "https://www.linkedin.com/in/emilie-sauv%C3%A9-23898727/",
+      "visibleIndex": 1
+    }
+  ],
+  "speakers3": [
+    {
+      "time": "19:00 PM-  21:00 PM",
+      "name": "Nisrin Al Yahya",
+      "image": "speakers/nisrin.jpg",
+      "disabledImage": "speakers/nisrin-d.jpg",
+      "linkedin": "https://www.linkedin.com/in/nisrin-cari-st-laurent/",
+      "visibleIndex": 2
+    },
+    {
+      "time": "19:00 PM-  21:00 PM",
+      "name": " Amin Belkasmi",
+      "image": "speakers/amin.jpeg",
+      "disabledImage": "speakers/amin-d.jpeg",
+      "linkedin": "",
+      "visibleIndex": 2
+    }
+  ],
+
+  "speakers4": [
+    {
+      "time": "19:00 PM-  21:00 PM",
+      "name": "Souleymane Gueye",
+      "image": "speakers/soulaymen.jpg",
+      "disabledImage": "speakers/soulaymen-d.jpg",
+      "linkedin": "https://www.linkedin.com/in/souleymane-gueye-8ab98aa5/",
+      "visibleIndex": 3
+    },
+    {
+      "time": "19:00 PM-  21:00 PM",
+      "name": "Kheira Araf",
+      "image": "speakers/kheira.jpg",
+      "disabledImage": "speakers/kheira-d.jpg",
+      "linkedin": "",
+      "visibleIndex": 3
+    }
+  ]
+}

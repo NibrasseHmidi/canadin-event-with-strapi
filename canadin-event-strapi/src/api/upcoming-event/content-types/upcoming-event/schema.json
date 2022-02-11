@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "upcoming_events",
+  "info": {
+    "singularName": "upcoming-event",
+    "pluralName": "upcoming-events",
+    "displayName": "upcomingEvent"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "default": "NOS TÉMOIGNAGES"
+    },
+    "list": {
+      "type": "json"
+    }
+  }
+}

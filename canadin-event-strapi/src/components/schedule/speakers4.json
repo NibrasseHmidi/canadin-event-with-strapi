@@ -1,0 +1,40 @@
+{
+  "collectionName": "components_schedule_speakers4s",
+  "info": {
+    "displayName": "Speakers4",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "time": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "disabledImage": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "linkedin": {
+      "type": "string"
+    },
+    "visibleIndex": {
+      "type": "integer"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_tools_box_tools_boxes",
+  "info": {
+    "displayName": "Tools",
+    "icon": "archway",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ]
+    },
+    "content": {
+      "type": "string"
+    }
+  }
+}

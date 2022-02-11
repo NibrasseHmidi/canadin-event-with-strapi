@@ -1,0 +1,51 @@
+{
+  "kind": "singleType",
+  "collectionName": "main_banners",
+  "info": {
+    "singularName": "main-banner",
+    "pluralName": "main-banners",
+    "displayName": "mainBanner",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "eventDate": {
+      "type": "string",
+      "default": "FEV 18, 2022"
+    },
+    "eventPlace": {
+      "type": "string",
+      "default": "En Ligne"
+    },
+    "title": {
+      "type": "string",
+      "default": "Master Class"
+    },
+    "description": {
+      "type": "text",
+      "default": "5 étapes pour décrocher un emploi au Québec"
+    },
+    "facebookLink": {
+      "type": "string",
+      "default": "https://www.facebook.com/GRJ-Academy-123337455725916/"
+    },
+    "linkedinLink": {
+      "type": "string",
+      "default": "https://www.linkedin.com/company/grj-academy/"
+    },
+    "youtubeLink": {
+      "type": "string",
+      "default": "https://www.youtube.com/channel/UCqyNHHKltIRPdrCkOjyQYig"
+    },
+    "instagramLink": {
+      "type": "string",
+      "default": "https://www.instagram.com/grj_academy/"
+    },
+    "rightBox": {
+      "type": "json"
+    }
+  }
+}

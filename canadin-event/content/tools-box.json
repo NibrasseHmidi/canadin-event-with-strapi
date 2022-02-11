@@ -1,0 +1,47 @@
+{
+  "title": "Boite à outils",
+  "subtitle": "Inclus ",
+  "description": "<p>Au-delà de l’apprentissage obtenez <span style='font-weight: bold; color: black; display: inline-block'>GRATUITEMENT</span> notre boîte à outils complète estimée à $820 canadiens. </p> <p>Bénéficiez d’un accès <span style='font-weight: bold; display: inline-block; color: black'>PREMIUM</span> à <span style='font-weight: bold; display: inline-block; color: black'>CANADIN APP</span> pendant 12 mois. </p> <p>Obtenez le label <span style='font-weight: bold; display: inline-block;color: black '>Canadin Certified.</span></p>",
+  "tools": [
+    {
+      "title": "Canadin App",
+      "image": "300/Canadin app.jpg",
+      "content": "<br/>Bénéficiez d'un abonnement 12 mois Canadin-app Premium<br/><br/></br>"
+    },
+    {
+      "title": "30 Min One to One ",
+      "image": "300/30 min one to one.jpg",
+      "content": "<br/>Obtenez un CV personnalisé selon les standards Québécois<br/><br/><br/>"
+    },
+    {
+      "title": "E-book 1",
+      "image": "300/Ebook 01- 20 questions.jpg",
+      "content": "<br/>20 Questions incontournable pour réussir votre entrevue<br/><br/><br/>"
+    },
+    {
+      "title": "E-book 2",
+      "image": "300/Ebook 02-  top 50 cabinets .jpg",
+      "content": "<br/>Top 50 Cabinets de recrutement international au Québec<br/><br/>"
+    },
+    {
+      "title": "E-book 3",
+      "image": "300/Ebook 03  - 50 recruteurs.jpg",
+      "content": "<br/><br/>Top 30 des meilleurs recruteurs pour le Québec<br/><br/>"
+    },
+    {
+      "title": "Branding",
+      "image": "300/postes.jpg",
+      "content": "<br/>Bénéficiez d'une publication personnalisée sur LinkedIn ( +200 K Followers)<br/><br/>"
+    },
+    {
+      "title": "Quiz",
+      "image": "300/quiz.jpg",
+      "content": "<br/><br/>Évaluez vos connaissances<br/><br/><br/>"
+    },
+    {
+      "title": "Attestation",
+      "image": "300/certificates.jpg",
+      "content": "<br/><br/>Obtenez le label <em style='text-transform: uppercase; font-weight: bold'>Canadin Certified</em><br/><br/>"
+    }
+  ]
+}

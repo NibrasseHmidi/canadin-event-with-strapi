@@ -1,0 +1,49 @@
+{
+  "kind": "singleType",
+  "collectionName": "schedules",
+  "info": {
+    "singularName": "schedule",
+    "pluralName": "schedules",
+    "displayName": "schedule",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "default": "Programme"
+    },
+    "Speakers1": {
+      "type": "component",
+      "repeatable": true,
+      "component": "schedule.schedule"
+    },
+    "List": {
+      "displayName": "List",
+      "type": "component",
+      "repeatable": true,
+      "component": "schedule.list"
+    },
+    "Speakers2": {
+      "displayName": "Speakers2",
+      "type": "component",
+      "repeatable": true,
+      "component": "schedule.speakers2"
+    },
+    "Speakers3": {
+      "displayName": "Speakers3",
+      "type": "component",
+      "repeatable": true,
+      "component": "schedule.speakers3"
+    },
+    "Speakers4": {
+      "displayName": "Speakers4",
+      "type": "component",
+      "repeatable": true,
+      "component": "schedule.speakers4"
+    }
+  }
+}

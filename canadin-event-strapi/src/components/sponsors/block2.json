@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_sponsors_block2s",
+  "info": {
+    "displayName": "block2",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "block2": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

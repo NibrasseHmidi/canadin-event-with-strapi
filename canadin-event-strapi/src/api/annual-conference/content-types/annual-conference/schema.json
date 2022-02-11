@@ -1,0 +1,35 @@
+{
+  "kind": "singleType",
+  "collectionName": "annual_conferences",
+  "info": {
+    "singularName": "annual-conference",
+    "pluralName": "annual-conferences",
+    "displayName": "annualConference"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "default": "Master Class"
+    },
+    "watchVideo": {
+      "type": "string",
+      "default": "Regardez la vidéo pour en savoir plus"
+    },
+    "content": {
+      "type": "text",
+      "default": "Un cours conçu spécialement pour vous accompagner pas à pas dans une recherche d’emploi optimisé. <br/> Apprenez tous les aspects transversaux depuis l’embauche jusqu'aux les intégrations. <br/> Rejoignez 6 ateliers, 8 experts de renommée... "
+    },
+    "button1": {
+      "type": "string",
+      "default": "Réservez votre place"
+    },
+    "button2": {
+      "type": "string",
+      "default": "le programme"
+    }
+  }
+}
